@@ -37,7 +37,7 @@
 
 ---
 
-###  My projects
+### 📚 My projects
 
 * 💱 **[CurrencyExchange](link)** `REST API` `SQLite` `HTTP Server`  
 * 🏪 **[ShopLocatorAPI](link)** `Django` `DRF` `PostgreSQL` 

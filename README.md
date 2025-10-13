@@ -39,9 +39,9 @@
 
 ### 📚 My projects
 
-* 💱 **[CurrencyExchange](link)** `REST API` `SQLite` `HTTP Server`  
-* 🏪 **[ShopLocatorAPI](link)** `Django` `DRF` `PostgreSQL` 
-* 🌍 **[2DWorld](link)** `OOP` `Pathfinding` `Simulation`  
-* 🐍 **[PythonTools](link)** `Async` `Threading` `File I/O` `Regex`  
+* 💱 **[CurrencyExchange](https://github.com/buddyuchiha/SimpleProjects/tree/CurrencyExchange)** `REST API` `SQLite` `HTTP Server`  
+* 🏪 **[ShopLocatorAPI](https://github.com/buddyuchiha/ShopLocatorAPI)** `Django` `DRF` `PostgreSQL` 
+* 🌍 **[2DWorld](https://github.com/buddyuchiha/SimpleProjects/tree/2DWorld)** `OOP` `Pathfinding` `Simulation`  
+* 🐍 **[PythonTools](https://github.com/buddyuchiha/PythonTools)** `Async` `Threading` `File I/O` `Regex`  
 
 

@@ -15,7 +15,7 @@
 
 ### 📂 About me
 
-- **Student at:**  Samara National Research University
+- **Student at:**  [Samara National Research University](https://github.com/itsecd)
 - **Interested in:** Backend, DevOps, Databases
 - **Working with:** Python, FastAPI, PostgreSQL, Docker 
 - **Contacts:**  [📱 Telegram](https://t.me/buddy2kyrtki)

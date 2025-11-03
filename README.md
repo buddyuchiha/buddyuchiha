@@ -39,6 +39,7 @@
 
 ### 📚 My projects
 
+* 💳 **[DepositAPI](https://github.com/buddyuchiha/DepositAPI)** `FastAPI` `PostgreSQL` `Docker` `Alembic` `Pydantic`
 * 💱 **[CurrencyExchange](https://github.com/buddyuchiha/SimpleProjects/tree/CurrencyExchange)** `REST API` `SQLite` `HTTP Server`  
 * 🏪 **[ShopLocatorAPI](https://github.com/buddyuchiha/ShopLocatorAPI)** `Django` `DRF` `PostgreSQL` 
 * 🌍 **[2DWorld](https://github.com/buddyuchiha/SimpleProjects/tree/2DWorld)** `OOP` `Pathfinding` `Simulation`  
